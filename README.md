@@ -10,7 +10,7 @@ Akira Toriyama foi um autor japonês de mangá, conhecido por ser o criador de s
 
 
 
-## tema do app
+## Tema do app
 Aplicativo para apresentar a biografia, empresas e trabalhos do profissional Akira Toriyama 
 
 
