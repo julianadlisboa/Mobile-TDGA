@@ -1,8 +1,7 @@
 # Mobile-TDGA
 Aplicativo sobre Akira Toriyama
 
-Colaboradores:
-## Juliana Lisboa e Isabella Correia
+Colaboradores: Juliana Lisboa e Isabella Correia
 
 ## Akira Toriyama
 
