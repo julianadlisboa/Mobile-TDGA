@@ -1,8 +1,8 @@
-# app_isaa
+# Akira Toriyama
 
-A new Flutter project.
+alunas: Isabella Correia e Juliana Dantas
 
-## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
