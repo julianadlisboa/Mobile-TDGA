@@ -15,8 +15,6 @@ alunas:
 Este aplicativo tem como objetivo apresentar a biografia, os principais trabalhos e as empresas onde Akira Toriyama, renomado mangaká e designer, atuou ao longo de sua carreira. Organizado de forma intuitiva e visual, o aplicativo permite ao usuário explorar as diversas contribuições de Toriyama no mundo dos jogos, animes e filmes.
 
 
-//WIKI
-
 
 ## Wiki do Projeto
 
