@@ -1,19 +1,16 @@
-# Mobile-TDGA
-Aplicativo sobre Akira Toriyama
+# app_isaa
 
-Colaboradores: Juliana Lisboa e Isabella Correia
+A new Flutter project.
 
-## Akira Toriyama
+## Getting Started
 
-![image](https://github.com/user-attachments/assets/f72aa1b5-1b62-4361-ab09-38dadda6fa08)
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-Akira Toriyama foi um autor japonês de mangá, conhecido por ser o criador de séries como Dragon Ball e Dr.Slump.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-
-## Tema do app
-Aplicativo para apresentar a biografia, empresas e trabalhos do profissional Akira Toriyama 
-
-
-<a href="https://github.com/julianadlisboa/Mobile-TDGA/wiki/Biografia">WIKI</a>
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
