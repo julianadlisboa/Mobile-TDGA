@@ -16,7 +16,7 @@ Este aplicativo tem como objetivo apresentar a biografia, os principais trabalho
 
 
 
-## Wiki do Projeto
+## Wiki
 
 Para mais detalhes sobre o desenvolvimento e as pesquisas realizadas, consulte a nossa 
 <a href="https://github.com/julianadlisboa/Mobile-TDGA/wiki">WIKI</a>. A Wiki inclui:
